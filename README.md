@@ -1,7 +1,7 @@
 # 🫧 Compliment Generator 
 
 A feel-good web app that generates beautifully weird, poetic, or uplifting compliments. Made for the CS Girlies Hackathon.
-I helped with the UI interface for the app.
+I helped with the UI interface for the app. 
 
 
  ## 🌀 Overview
